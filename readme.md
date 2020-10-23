@@ -27,3 +27,42 @@ func StartHttp() http.Handler {
 ```
 
 4. Create you logic func on `User.go` 
+
+# Screenshot
+
+1. Get Methode 
+
+<p align="center">
+    <span>
+      <img src="https://raw.githubusercontent.com/Oreki13/api_golang_mux/master/ss/get.png" width="500px" />
+      &nbsp;&nbsp;
+    </span>
+  </p>
+
+2. Post Methode
+
+<p align="center">
+    <span>
+      <img src="https://raw.githubusercontent.com/Oreki13/api_golang_mux/master/ss/post.png" width="500px" />
+      &nbsp;&nbsp;
+    </span>
+  </p>
+
+3. PUT Methode
+
+<p align="center">
+    <span>
+      <img src="https://raw.githubusercontent.com/Oreki13/api_golang_mux/master/ss/edit.png" width="500px" />
+      &nbsp;&nbsp;
+    </span>
+  </p>
+
+4. Delete Methode
+
+<p align="center">
+    <span>
+      <img src="https://raw.githubusercontent.com/Oreki13/api_golang_mux/master/ss/delete.png" width="500px" />
+      &nbsp;&nbsp;
+    </span>
+  </p>
+
